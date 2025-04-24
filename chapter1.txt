@@ -1,2 +1,4 @@
 Welcome to the GIT
 Non sensical modification
+`git add
+git my branch
